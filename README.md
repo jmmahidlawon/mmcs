@@ -2,7 +2,6 @@
 <html>
 <head>
     <meta charset="UTF-8" />
-    <title>MMCS's 25th Anniversary Concert</title>
    <style>
     body {
         background-image: url('file:///Users/gunrealomega/Desktop/mmcs/istockphoto-2158203844-612x612.jpg');
